@@ -1,11 +1,13 @@
-Projeto: Pacote de Processamento de Imagens
-Autora do Projeto: Karina Kato
+#Projeto: Pacote de Processamento de Imagens
+
+##Autora do Projeto: Karina Kato
+
 Aula: Coding Lab PRO - Digital Innovation One
 (clique aqui para ver o meu perfil na plataforma)
 
 Tecnologia: Python
 Data: 22/08/2020
-Descrição
+###Descrição
 O pacote "image_processing-test" é usado para:
 
 Módulo "Processing":
@@ -49,7 +51,7 @@ combination.find_difference(image1, image2)´´´
 
 
 Autor (quem hospedou o projeto no Test Pypi)
-Henrique Matheus Alves Pereira
+Cristiano Oliveira da Silva
 
 Licença
 MIT
